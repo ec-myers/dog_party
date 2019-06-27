@@ -1,0 +1,147 @@
+* {
+	font-family: 'Open Sans', sans-serif;
+	font-color: #000000;
+	margin: 0;
+	padding: 0;
+	/*border: 1px solid red;*/
+}
+
+h1 {
+	color: #ffffff;
+	font-weight: normal;
+	padding: 25px 0px 25px 0px;
+}
+
+h2 {
+	font-weight: bold;
+	font-size: 22px;
+  margin: 30px auto;
+}
+
+nav {
+	background-color: #75e2e6;
+	border-bottom: 3px solid #048eaa;
+	height: 65px;
+	width: 100%;
+}
+
+nav img {
+	float: left;
+	height: 45px;
+	padding: 10px 15px 10px 15px;
+}
+
+.nav-text li {
+	display: inline;
+	float: right;
+	font-weight: bold;
+	list-style-type: none;
+	margin: 15px;
+	padding: 10px 3px 10px 3px;
+}
+
+.nav-text a {
+  text-decoration: none;
+  color: inherit;
+}
+
+header {
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0) ), url("images/park.jpg");
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 463px;
+  text-align: center;
+}
+
+form {
+  width: 25%;
+  margin: auto;
+}
+
+label {
+  color: #ffffff;
+  float: left;
+}
+
+#form-text {
+  border-radius: 4px;
+  padding: 12px;
+  width: 100%;
+}
+
+#form-submit {
+  border-radius: 4px;
+  margin: 10px 0px;
+  padding: 12px;
+  width: 108%;
+  font-size: 16px;
+  background-color: #75e2e6;
+}
+
+.top-dog {
+	border-radius: 50%;
+	height: 170px;
+	width: 170px;
+	border-style: solid;
+	border-color: #048eaa;
+	border-width: 5px;
+}
+
+.section1 article {
+	display: inline-block;
+	width: 33%;
+  text-align: center;
+}
+
+.section1 p {
+  height: 200px;
+  width: 300px; 
+  text-align: left;
+  font-size: 16px;
+  margin: 20px auto 30px;
+}
+
+.hero-park {
+	position: absolute;
+	background-size: cover;
+}
+
+.pup-img {
+	border-radius: 50%;
+	height: 170px;
+	width: 170px;
+	border-style: solid;
+	border-color: #048eaa;
+	border-width: 5px;
+}
+
+button {
+	color: #ffffff;
+	background-color: #048eaa;
+	border-radius: 4px;
+  border: 0;
+	height: 43px;
+	width: 300px;
+	font-size: 14px;
+	margin: 10px auto 35px;
+}
+
+footer {
+	color: #ffffff;
+	background-color: #048eaa;
+	height: 166px;
+	width: 100%;
+	text-align: center;
+}
+
+.learn-about {
+	text-align: center;
+	padding-top: 35px;
+}
+
+.footer-icon li {
+	display: inline-block;
+	padding:25px 10px;
+	text-align: center;
+}
