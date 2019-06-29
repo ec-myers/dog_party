@@ -16,7 +16,7 @@ View the first comp live on github live page:
 ---
 
 #### Webpage 1 Recreation
-![_Users_ecmyers_Developer_Turing_mod-1_dog-party_index html_Name= Name+This+Dog=Name+This+Dog (1)](https://user-images.githubusercontent.com/47042400/60389209-fe05ee80-9a7a-11e9-8052-f2aed9fa94d2.png)
+![_Users_ecmyers_Developer_Turing_mod-1_dog-party_index html_Name= Name+This+Dog=Name+This+Dog (2)](https://user-images.githubusercontent.com/47042400/60390015-4c6eb980-9a8a-11e9-817d-004cf1f3da7d.png)
 
 ---
 
