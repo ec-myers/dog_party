@@ -12,10 +12,17 @@ View the first comp live on github live page:
 
 #### Static Comp 1
 ![image](https://user-images.githubusercontent.com/47042400/60388385-471c6980-9aa0-11e9-8cd1-00b199c017d6.png)
+
+---
+
 #### Webpage 1 Recreation
 ![_Users_ecmyers_Developer_Turing_mod-1_dog-party_index html_Name= Name+This+Dog=Name+This+Dog (1)](https://user-images.githubusercontent.com/47042400/60389209-fe05ee80-9a7a-11e9-8052-f2aed9fa94d2.png)
 
+---
 
 #### Static Comp 2
 ![image](https://user-images.githubusercontent.com/47042400/60388391-5f8c8400-9aa0-11e9-89c7-83f1393a7664.png)
+
+---
+
 #### Webpage 2 Recreation
