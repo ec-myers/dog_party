@@ -6,7 +6,9 @@ websites based on comps provided by a designer. The recreation of these pages us
 
 The structure of these webpages does not utilize flexbox or grid and is not responsive at this time.
 
-View the first comp live on github live page:
+JavaScript functionality has been added to the form at the top of the page to allow the user to input their dog's name and update the text in the header above.
+
+View the first comp live on github live pages: https://ec-myers.github.io/dog_party/
 
 ### Static Comps and Web Page Screenshots
 
@@ -26,4 +28,4 @@ View the first comp live on github live page:
 ---
 
 #### Webpage 2 Recreation
-![_Users_ecmyers_Developer_Turing_mod-1_dog-party_index html_Name= Name+This+Dog=Name+This+Dog (4)](https://user-images.githubusercontent.com/47042400/60390051-e9c9ed80-9a8a-11e9-9ff3-4321573c0d19.png)
+![_Users_ecmyers_Developer_Turing_mod-1_dog-party_index html_Name= (1)](https://user-images.githubusercontent.com/47042400/60406263-3c320980-9b72-11e9-9870-90c06faa12f6.png)
