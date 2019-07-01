@@ -11,9 +11,9 @@
 
 h1 {
   font-weight: 100;
-  margin: 50px 148px 30px 0px;
-  /*padding: 25px 0px 10px 0px;*/
-  width: 38%;
+  margin: 45px 100px 25px 0px;
+  padding: 0px 0px 10px 23px;
+  width: 45%;
 }
 
 h2 {
@@ -36,13 +36,13 @@ nav {
   height: 100%;
   left: 0px;
   position: fixed;
-  width: 12%;
+  width: 15%;
   z-index: 1;
 }
 
 nav img {
-  height: 95px;
-  margin: 18px;
+  height: 100px;
+  margin: 21px;
 }
 
 .nav-text a {
@@ -50,7 +50,7 @@ nav img {
   display: block;
   font-size: 14px;
   font-weight: 700;
-  padding: 15px 8px 15px 17px;
+  padding: 25px 8px 15px 17px;
   text-decoration: none;
 }
 
@@ -61,7 +61,7 @@ header {
   background-size: cover;
   color: #ffffff;
   font-weight: 400;
-  height: 340px;
+  height: 310px;
 }
 
 .top-dog {
@@ -72,12 +72,11 @@ header {
   display: block;
   float: left;
   height: 275px;
-  margin: 20px;
+  margin: 16px 45px;
 }
 
 .right-align-header {
   float: right;
-
 }
 
 /* 'name this dog' form*/
@@ -85,8 +84,8 @@ header {
 form {
   display: block;
   float: right;
-  margin: 0px 180px 0px 0px;
-  width: 35%;
+  margin-right: 120px;
+  width: 40%;
 }
 
 label { 
@@ -120,9 +119,8 @@ label {
   border-radius: 50%;
   border-style: solid;
   border-width: 5px;
-  height: 170px;
-  left: 30px;
-  margin: 10px auto;
+  height: 165px;
+  left: 15px;
   position: absolute;
 }
 
@@ -136,26 +134,28 @@ label {
   position: relative;
 }
 
-article:last-child{
+article:last-child {
   border-bottom: none;
 }
 
 .section1 p {
+  font-weight: 300;
+  font-size: 15px;
   height: 100px;
-  /*left: 250px;*/
+  left: 225px;
   right: 0;
   position: absolute;
   top: 55px;
-  width: 73%;   
+  width: 68%; 
 }
 
 #howtodog,
 #whatisdogs {
-  padding-left: 50px;
+  padding-left: 35px;
 }
 
 #factsfromdog {
-  padding-left: 40px;
+  padding-left: 25px;
 
 }
 
