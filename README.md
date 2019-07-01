@@ -28,4 +28,5 @@ View the first comp live on github live pages: https://ec-myers.github.io/dog_pa
 ---
 
 #### Webpage 2 Recreation
-![_Users_ecmyers_Developer_Turing_mod-1_dog-party_index html_Name= (1)](https://user-images.githubusercontent.com/47042400/60406263-3c320980-9b72-11e9-9870-90c06faa12f6.png)
+![_Users_ecmyers_Developer_Turing_mod-1_dog-party_index html_Name= (2)](https://user-images.githubusercontent.com/47042400/60407838-7ce15100-9b79-11e9-8503-5e0b012cba4b.png)
+
